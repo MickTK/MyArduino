@@ -2,7 +2,12 @@
 
 ClassicController classic;
 
-int LX_default, LY_default, RX_default, RY_default;
+// Default values (may be different for you)
+#define LX_default 131
+#define LY_default 125
+#define RX_default 128
+#define RY_default 130
+
 const int tolerable = 20;
 bool values[23];
 
@@ -12,11 +17,6 @@ void setup() {
 
 	for(int i = 0; i < 23; i++)
 		values[i] = false;
-
-	LX_default = 131;
-	LY_default = 125;
-	RX_default = 128;
-	RY_default = 130;
 
 	while (!classic.connect()) {
 		Serial.println("Classic Controller not detected!");
