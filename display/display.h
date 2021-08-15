@@ -2,9 +2,14 @@
 #include <Adafruit_ST7735.h>
 #include "colors.h"
 
-#define TFT_CS         4
-#define TFT_RST        8
-#define TFT_DC         9
+// VCC -> 5v
+// GND -> GND
+#define TFT_CS  4
+#define TFT_RST 8
+#define TFT_DC  9
+// SDA -> 11
+// SCK -> 13
+// LED -> 3.3v
 
 extern Adafruit_ST7735 screen;
 
