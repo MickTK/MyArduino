@@ -1,0 +1,9 @@
+C:\Users\miche\Desktop\Arduino\IR\PortReader\bin\Release\PortReader.exe.config
+C:\Users\miche\Desktop\Arduino\IR\PortReader\bin\Release\PortReader.exe
+C:\Users\miche\Desktop\Arduino\IR\PortReader\bin\Release\PortReader.pdb
+C:\Users\miche\Desktop\Arduino\IR\PortReader\obj\Release\PortReader.PortReader.resources
+C:\Users\miche\Desktop\Arduino\IR\PortReader\obj\Release\PortReader.Properties.Resources.resources
+C:\Users\miche\Desktop\Arduino\IR\PortReader\obj\Release\PortReader.csproj.GenerateResource.cache
+C:\Users\miche\Desktop\Arduino\IR\PortReader\obj\Release\PortReader.csproj.CoreCompileInputs.cache
+C:\Users\miche\Desktop\Arduino\IR\PortReader\obj\Release\PortReader.exe
+C:\Users\miche\Desktop\Arduino\IR\PortReader\obj\Release\PortReader.pdb
