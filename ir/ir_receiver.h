@@ -1,7 +1,9 @@
 #include "IRremote.h"
 #include "IRremoteInt.h"
 
-#define IR_RECEIVER_PIN 11
+// G -> GND
+// R -> 5v
+#define IR_RECEIVER_PIN 11 // Y
 
 #define POWER 0xFFA25D
 #define FUNC_STOP 0xFFE21D
