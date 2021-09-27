@@ -1,2 +1,2 @@
-# My Arduino libraries and presets
-Arduino model: UNO R3
+# My Arduino
+For Arduino UNO R3
